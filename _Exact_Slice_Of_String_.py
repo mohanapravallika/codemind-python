@@ -1,0 +1,5 @@
+s=input()
+x=int(input())
+y=int(input())
+s1=slice(x,y+1)
+print(s[s1])
